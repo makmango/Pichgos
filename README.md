@@ -1,4 +1,4 @@
-# Pichgos
+# About Pichgos
 
 Work in progress.
 

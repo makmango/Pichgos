@@ -1,4 +1,5 @@
 # About Pichgos
+Pichons & logos = Pichgos
 
 Work in progress.
 

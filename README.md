@@ -9,7 +9,7 @@ Feel free to use the pichgos in youtr iptv project.
 
 # Tv2
 
-![TV2 Play] | ![TV2] | ![TV2 News] | ![TV2 Charlie] |
+![TV2 Play] ![TV2] ![TV2 News] ![TV2 Charlie] |
 ![TV2 Echo] | ![TV2 Fri] | ![TV2 Sport] | ![TV2 Sport X] |
 
 

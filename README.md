@@ -1,3 +1,4 @@
+
 # About Pichgos
 Pichons & logos = Pichgos
 
@@ -22,6 +23,11 @@ Feel free to use the pichgos in youtr iptv project.
 [TV2 Fri]: https://github.com/makmango/Pichgos/blob/main/DK/TV2/Untitled%203.png
 [TV2 Sport]: https://github.com/makmango/Pichgos/blob/main/DK/TV2/kanal4.png
 [TV2 Sport X]: https://github.com/makmango/Pichgos/blob/main/DK/TV2/News.png
+
+# Inspired by:
+https://github.com/tv-logo/tv-logos
+
+https://raybo.org/
 
 # Title 1
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 

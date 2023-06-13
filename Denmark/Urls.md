@@ -1,7 +1,7 @@
 # Denmark
 TV2
  
-    Charlie:
+    Charlie: https://raw.githubusercontent.com/makmango/Pichgos/main/Denmark/tv2Charlie.png
 
     Echo: https://raw.githubusercontent.com/makmango/Pichgos/main/Denmark/tv2echo.png
 

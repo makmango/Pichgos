@@ -4,7 +4,7 @@ Pichons & logos = Pichgos
 
 Work in progress. Testing Github coding.
 
-Home made pichons/ channel logos. Testting out ideas.
+Home made pichons/ channel logos. Testing out ideas.
 
 Feel free to use the pichgos in youtr iptv project.
 

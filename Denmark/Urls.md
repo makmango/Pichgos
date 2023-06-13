@@ -1,17 +1,17 @@
 # Denmark
- ## TV2
-Charlie:
+- TV2
+  Charlie:
 
-Echo: https://raw.githubusercontent.com/makmango/Pichgos/main/Denmark/tv2echo.png
+  Echo: https://raw.githubusercontent.com/makmango/Pichgos/main/Denmark/tv2echo.png
 
-Fri:
+  Fri:
 
-News:
+  News:
 
-Sport:
+  Sport:
 
-Sport X:
+  Sport X:
 
-TV2:
+  TV2:
 
  
